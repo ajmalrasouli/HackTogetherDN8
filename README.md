@@ -20,7 +20,7 @@ One of the standout features is the seamless integration with the **OpenAI API**
 - **OpenAI Integration:** Receive password strength suggestions through OpenAI.
 
 
-Please watch Demo here --> https://github.com/ajmalrasouli/HackTogetherDN8/blob/main/wwwroot/PasswordStoreAppDemo.mp4
+Please watch Demo here --> (https://www.youtube.com/watch?v=Mdk3rR7rHP8)
 
 ## Getting Started 🔰
 

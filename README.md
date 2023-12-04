@@ -12,11 +12,13 @@ Welcome to PasswordStoreApp, a simple ASP.NET Core web application for managing 
 
 One of the standout features is the seamless integration with the **OpenAI API**. This integration enhances the application's capabilities by assessing password strength and generating strong passwords. The OpenAI API ensures that users maintain robust and secure credentials for their online accounts.
 
-## Features
 
-- **Create, Read, Update, Delete (CRUD):** Easily add, view, edit, and delete passwords.
-- **Search Functionality:** Search for passwords based on the site name.
-- **OpenAI Integration:** Assess password strength and generate strong passwords using OpenAI.
+## Key Features
+- **Password Management:** Perform CRUD operations on password entries. Easily add, view, edit, and delete passwords.
+- **Search Functionality:** Easily find passwords related to specific sites.
+- **Security:** Built on ASP.NET Core, ensuring robust security measures.
+- **OpenAI Integration:** Receive password strength suggestions through OpenAI.
+
 
 ## Getting Started 🔰
 

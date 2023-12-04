@@ -6,6 +6,11 @@
 # PasswordStoreApp
 
 Welcome to PasswordStoreApp, a simple ASP.NET Core web application for managing passwords.
+**PasswordStoreApp** is a secure and user-friendly password management web application built with **ASP.NET Core**. It empowers users to effortlessly manage their passwords by providing essential features such as Create, Read, Update, and Delete (CRUD) operations. The application includes a robust search functionality, allowing users to easily find passwords associated with specific sites.
+
+## OpenAI Integration
+
+One of the standout features is the seamless integration with the **OpenAI API**. This integration enhances the application's capabilities by assessing password strength and generating strong passwords. The OpenAI API ensures that users maintain robust and secure credentials for their online accounts.
 
 ## Features
 

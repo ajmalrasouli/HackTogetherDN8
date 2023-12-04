@@ -81,24 +81,26 @@ async function askOpenAI() {
 
 ## Sample PasswordStoreApp Pages
 
+
+### Main page 📄
 <img width="1011" alt="1" src="https://github.com/ajmalrasouli/HackTogetherDN8/assets/88502375/fb80d597-1a20-4f2e-b369-9073304fdb83">
 
-
+### Search page 📄
 <img width="1014" alt="2" src="https://github.com/ajmalrasouli/HackTogetherDN8/assets/88502375/cbe45570-4a3e-45db-94d0-8006f6569123">
 
+### Passwords page 📄
+<img width="1021" alt="3" src="https://github.com/ajmalrasouli/HackTogetherDN8/assets/88502375/511f6e00-7e9a-434f-bb51-fb2f7ba9e89d">
 
-<img width="1014"<img width="1021" alt="3" src="https://github.com/ajmalrasouli/HackTogetherDN8/assets/88502375/511f6e00-7e9a-434f-bb51-fb2f7ba9e89d">
-
-
+### Edit page 📄
 <img width="1010" alt="4" src="https://github.com/ajmalrasouli/HackTogetherDN8/assets/88502375/ed1be6fc-3a61-4dd2-bd3f-f2f783a99d1a">
 
-
+### Details page 📄
 <img width="1015" alt="5" src="https://github.com/ajmalrasouli/HackTogetherDN8/assets/88502375/3f61bcf7-023a-4c4a-9312-d640991331ca">
 
 
 <img width="1003" alt="6" src="https://github.com/ajmalrasouli/HackTogetherDN8/assets/88502375/8256877a-7e40-41b0-b697-c9b180ad4fd2">
 
-
+### User manage page 📄
 <img width="1009" alt="7" src="https://github.com/ajmalrasouli/HackTogetherDN8/assets/88502375/765bbbc2-5955-4530-8b2b-d9be7d446ed3">
 
 
